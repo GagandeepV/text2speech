@@ -1,13 +1,54 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Rubik+Marker+Hatch&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    font-family: 'DynaPuff', cursive;
+    background-color: black;
+    color: aliceblue;
+}
+
+.container {
+    margin: 1em 6em;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+
+button {
+    width: 150%;
+}
+
+button:hover {
+    scale: 1.1;
+}
+
+span {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Rubik Marker Hatch', cursive;
+    text-align: center;
+    margin-top: 0.8em;
+    font-size: 3em;
+}
+
+textarea {
+    font-family: 'DynaPuff', cursive;
+    resize: vertical;
+    min-height: 25em;
+    max-height: 50em;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 10px 5px rgba(255, 255, 255, 0.391);
+    border-radius: 5px;
+    padding: 1em;
+    font-size: large;
 }

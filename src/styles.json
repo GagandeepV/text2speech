@@ -1,0 +1,69 @@
+{
+    "container": {
+        "width": "50px"
+    },
+    "text": {
+        "width": "100%",
+        "display": ""
+    },
+    "play": {
+        "hover": {
+            "backgroundColor": "rgb(0, 150, 255)"
+        },
+        "button": {
+            "width": "34",
+            "height": "34",
+            "cursor": "pointer",
+            "pointerEvents": "all",
+            "outline": "none",
+            "backgroundColor": "rgb(0, 180, 255)",
+            "border": "solid 5px rgba(255,255,255,1)",
+            "borderRadius": 6
+        }
+    },
+    "stop": {
+        "hover": {
+            "backgroundColor": "rgb(0, 150, 255)"
+        },
+        "button": {
+            "width": "34",
+            "height": "34",
+            "cursor": "pointer",
+            "pointerEvents": "none",
+            "outline": "none",
+            "backgroundColor": "rgb(0, 180, 255)",
+            "border": "solid 5px rgba(255,255,255,1)",
+            "borderRadius": 6
+        }
+    },
+    "pause": {
+        "hover": {
+            "backgroundColor": "rgb(0, 150, 255)"
+        },
+        "button": {
+            "width": "34",
+            "height": "34",
+            "cursor": "pointer",
+            "pointerEvents": "none",
+            "outline": "none",
+            "backgroundColor": "rgb(0, 180, 255)",
+            "border": "solid 5px rgba(255,255,255,1)",
+            "borderRadius": 6
+        }
+    },
+    "resume": {
+        "hover": {
+            "backgroundColor": "rgb(0, 150, 255)"
+        },
+        "button": {
+            "width": "34",
+            "height": "34",
+            "cursor": "pointer",
+            "pointerEvents": "none",
+            "outline": "none",
+            "backgroundColor": "rgb(0, 180, 255)",
+            "border": "solid 5px rgba(255,255,255,1)",
+            "borderRadius": 6
+        }
+    }
+  }
