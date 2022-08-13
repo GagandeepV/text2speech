@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.28dacedd.css",
-    "main.js": "/my-app/static/js/main.ef279c7b.js",
-    "index.html": "/my-app/index.html",
-    "main.28dacedd.css.map": "/my-app/static/css/main.28dacedd.css.map",
-    "main.ef279c7b.js.map": "/my-app/static/js/main.ef279c7b.js.map"
+    "main.css": "/text2speech/static/css/main.28dacedd.css",
+    "main.js": "/text2speech/static/js/main.ef279c7b.js",
+    "index.html": "/text2speech/index.html",
+    "main.28dacedd.css.map": "/text2speech/static/css/main.28dacedd.css.map",
+    "main.ef279c7b.js.map": "/text2speech/static/js/main.ef279c7b.js.map"
   },
   "entrypoints": [
     "static/css/main.28dacedd.css",
